@@ -1,2 +1,2 @@
 print("hola mundo")
-print("chau mundo")
+import random
